@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Tildelte Ture";
 }
 <h1>@ViewData["Title"]</h1>
@@ -26,7 +25,7 @@
         <li><a href="#">Varighed</a></li>
         <li><a href="#">Trafik</a></li>
         <li><a href="#">Afdeling</a></li>
-        <li><a href="#">Status</a></li>
+        <li><a href="#">Navn</a></li>
     </ul>
 </div>
 <table>
@@ -40,23 +39,13 @@
         <th>Status</th>
     </tr>
     <tr>
-        <td onclick="openTable()">
-            <table id="tableToOpen" display="none">
-                <tr>
-                    <th>Navn</th>
-                    <th>Tlf.-nr.</th>
-                    <th>Mail</th>
-                    <th>Kørekorttype</th>
-                    <th>Vælg chauffør</th>
-                </tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            </table>
-            <button>Godkend chauffør</button>
-            <button>Slet tur</button>
-            <button>Rediger tur</button>
+        <td onclick="openTableColunm()">
+            <div id="TableToOpen" display="none">
+                <p>Info om tur</p>
+                <button>Fjern chauffør</button>
+                <button>Slet tur</button>
+                <button>Rediger tur</button>
+            </div>
         </td>
         <td></td>
         <td></td>

@@ -2,9 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.AAO__adminstrationspanel FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AAO_adminstrationspanel/Views/Home/TildelteTure.cshtml">
     <Files>
-      <File FileName="AAO_adminstrationspanel/Views/Home/AlleTure.cshtml" Line="2" Column="3" />
-      <File FileName="AAO_adminstrationspanel/wwwroot/js/site.js" Line="5" Column="1" />
-      <File FileName="AAO_adminstrationspanel/Views/Home/TildelteTure.cshtml" Line="3" Column="34" />
+      <File FileName="AAO_adminstrationspanel/wwwroot/js/site.js" Line="8" Column="2" />
+      <File FileName="AAO_adminstrationspanel/Views/Home/TildelteTure.cshtml" Line="4" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
