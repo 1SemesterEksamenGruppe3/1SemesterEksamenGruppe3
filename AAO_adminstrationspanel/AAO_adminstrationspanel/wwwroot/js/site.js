@@ -3,6 +3,6 @@
 
 // Write your JavaScript code.
 
-function openTable() {
-    document.getElementByid("tableToOpen").style.display="block";
+function openTableColunm() {
+    document.getElementByid("TableToOpen").style.display="block";
 }

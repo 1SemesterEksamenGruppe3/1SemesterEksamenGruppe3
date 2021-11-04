@@ -1,14 +1,10 @@
 ﻿<Properties StartupConfiguration="{C8C7FDAB-816D-46B6-B92C-D43FB3CBFD5E}|Default">
   <MonoDevelop.Ide.ItemProperties.AAO__adminstrationspanel FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AAO_adminstrationspanel/wwwroot/js/site.js">
-    <Files>
-      <File FileName="AAO_adminstrationspanel/Views/Home/AlleTure.cshtml" Line="44" Column="36" />
-      <File FileName="AAO_adminstrationspanel/wwwroot/js/site.js" Line="6" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AAO_adminstrationspanel" expanded="True">
+          <Node name="AAO_adminstrationspanel" expanded="True" selected="True">
             <Node name="AAO_adminstrationspanel" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
@@ -17,9 +13,8 @@
                 <Node name="Home" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True">
-                  <Node name="site.js" selected="True" />
-                </Node>
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
