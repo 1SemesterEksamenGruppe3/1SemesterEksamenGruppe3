@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AAO_adminstrationspanel
-build_property.ProjectDir = C:\Users\markj\Documents\GitHub\1SemesterEksamenGruppe3\AAO_adminstrationspanel\AAO_adminstrationspanel\
+build_property.ProjectDir = C:\xampp\htdocs\1SemesterEksamenGruppe3\AAO_adminstrationspanel\AAO_adminstrationspanel\
