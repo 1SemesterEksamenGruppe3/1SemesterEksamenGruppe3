@@ -23,15 +23,24 @@ namespace AAO_adminstrationspanel.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult OpretTur()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult AlleTure()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View();
+        }
+
+        public IActionResult TildelteTure()
+        {
+            return View();
+        }
+
+        public IActionResult AfloserOversigt()
+        {
+            return View();
         }
     }
 }

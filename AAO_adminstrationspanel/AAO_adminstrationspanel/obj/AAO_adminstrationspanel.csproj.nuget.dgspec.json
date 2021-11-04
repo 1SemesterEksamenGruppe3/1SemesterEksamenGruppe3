@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\markj\\Documents\\GitHub\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj": {}
+    "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\markj\\Documents\\GitHub\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj": {
+    "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\markj\\Documents\\GitHub\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj",
         "projectName": "AAO_adminstrationspanel",
-        "projectPath": "C:\\Users\\markj\\Documents\\GitHub\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj",
-        "packagesPath": "C:\\Users\\markj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\markj\\Documents\\GitHub\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\obj\\",
+        "projectPath": "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj",
+        "packagesPath": "C:\\Users\\Andreas\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\markj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andreas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net5.0": {
