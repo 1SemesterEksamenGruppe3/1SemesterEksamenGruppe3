@@ -1,4 +1,34 @@
 ﻿<Properties StartupConfiguration="{C8C7FDAB-816D-46B6-B92C-D43FB3CBFD5E}|Default">
-  <MonoDevelop.Ide.ItemProperties.AAO__adminstrationspanel FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AAO__adminstrationspanel PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AAO_adminstrationspanel/wwwroot/css/site.css">
+    <Files>
+      <File FileName="AAO_adminstrationspanel/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="AAO_adminstrationspanel/wwwroot/css/site.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AAO_adminstrationspanel" expanded="True">
+            <Node name="AAO_adminstrationspanel" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Privacy.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
