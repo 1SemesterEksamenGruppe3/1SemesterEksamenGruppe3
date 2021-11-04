@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/linesorinekellner/iCloud Drive (arkiv) - 1/Documents/Dokumenter/Studie Webudvikling/Projekt/AAO/AAO_adminstrationspanel/AAO_adminstrationspanel/AAO_adminstrationspanel.csproj": {}
+    "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj": {}
   },
   "projects": {
-    "/Users/linesorinekellner/iCloud Drive (arkiv) - 1/Documents/Dokumenter/Studie Webudvikling/Projekt/AAO/AAO_adminstrationspanel/AAO_adminstrationspanel/AAO_adminstrationspanel.csproj": {
+    "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/linesorinekellner/iCloud Drive (arkiv) - 1/Documents/Dokumenter/Studie Webudvikling/Projekt/AAO/AAO_adminstrationspanel/AAO_adminstrationspanel/AAO_adminstrationspanel.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj",
         "projectName": "AAO_adminstrationspanel",
-        "projectPath": "/Users/linesorinekellner/iCloud Drive (arkiv) - 1/Documents/Dokumenter/Studie Webudvikling/Projekt/AAO/AAO_adminstrationspanel/AAO_adminstrationspanel/AAO_adminstrationspanel.csproj",
-        "packagesPath": "/Users/linesorinekellner/.nuget/packages/",
-        "outputPath": "/Users/linesorinekellner/iCloud Drive (arkiv) - 1/Documents/Dokumenter/Studie Webudvikling/Projekt/AAO/AAO_adminstrationspanel/AAO_adminstrationspanel/obj/",
+        "projectPath": "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\AAO_adminstrationspanel.csproj",
+        "packagesPath": "C:\\Users\\Andreas\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\1SemesterEksamenGruppe3\\AAO_adminstrationspanel\\AAO_adminstrationspanel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/linesorinekellner/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Andreas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net5.0": {
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
